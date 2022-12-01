@@ -1,0 +1,52 @@
+body{
+    background-image: url(../src/img/Index.jpg);
+    color: white;
+    background-size: cover;
+}
+header{
+    text-align: center;
+    width: 1200px;
+    height: 50px;
+    padding: 25px
+}
+nav{
+    color: white;
+    margin:25px;
+    width: 1200px;
+    height: 20px;
+
+}
+.A{
+    background-color: indigo;
+    width: 200px;
+    height: 50px;
+}
+.AB{
+    background-color: darkmagenta; 
+    width: 800px;
+    height: 80px;
+    color:white;
+}
+.B{
+    background-color: darkmagenta;
+    width: 800px;
+    height: 80px;
+    color:white;
+    
+
+}
+.c{
+    background-color: darkorchid;
+    background-image: url(../src/img/Us.png);
+    width: 800px;
+    height: 80px;
+    color: white;
+    font-family:'Gothic Medium', sans-serif;
+}
+section{
+    
+    color:white;
+    padding: 60px;
+}
+
+

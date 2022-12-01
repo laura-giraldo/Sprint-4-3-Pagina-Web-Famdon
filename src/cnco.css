@@ -1,0 +1,36 @@
+.cncoa{
+    background-color: black;
+    background-image: url(./img/CNCO.jpg);
+    color:black;
+    width: 1300px;
+    height: 800px;
+    font-size: 40px;
+}
+.cnconoticias{
+    color: white;
+    font-size: 30px;
+}
+.karolga{
+    background-color: black;
+    background-image: url(./img/Karol\ G.jpg);
+    color:black;
+    width: 1300px;
+    height: 800px;
+    font-size: 40px;
+}
+.karolgnoticias{
+    color: white;
+    font-size: 30px;
+}
+.malumaa{
+    background-color: black;
+    background-image: url(./img/Maluma.jpg);
+    color:black;
+    width: 1300px;
+    height: 800px;
+    font-size: 40px;
+}
+.malumanoticias{
+    color: white;
+    font-size: 30px;
+}

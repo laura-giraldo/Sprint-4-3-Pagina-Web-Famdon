@@ -1,0 +1,19 @@
+
+.formulario{
+    background-color: black;
+    background-image: url(./img/Us.png);
+    width: 1300px;
+    height: 800px;
+    text-align: center;
+}
+.FormCaja{
+    text-align: center;
+    font-size: larger;
+    color: magenta;
+}
+.crearC{
+    background-color: magenta;
+    color:black;
+    width: 200px;
+    height: 50px;
+}

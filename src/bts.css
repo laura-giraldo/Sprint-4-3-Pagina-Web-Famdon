@@ -1,0 +1,37 @@
+
+.btsa{
+    background-color: black;
+    background-image: url(./img/BTS1.jpg);
+    color:black;
+    width: 1300px;
+    height: 800px;
+    font-size: 40px;
+}
+.btsnoticias{
+    color: white;
+    font-size: 30px;
+}
+.stza{
+    background-image: url(./img/StrayKids.jpg);
+    background-size: cover;
+    color:white;
+    width: 1300px;
+    height: 800px;
+    font-size: 40px;
+}
+.stznoticias{
+    color: white;
+    font-size: 30px;
+}
+.aea{
+    background-image:url(./img/Aespajpg.jpg) ;
+    background-size:auto;
+    color:white;
+    width: 1300px;
+    height: 800px;
+    font-size: 40px;
+}
+.aenoticias{
+    color:white;
+    font-size: 25px;
+}

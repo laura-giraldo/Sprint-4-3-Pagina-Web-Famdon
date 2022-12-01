@@ -1,0 +1,61 @@
+
+.artist{
+    background-color: black;
+    text-align: center;
+    width: 1300px;
+    height: 800px;
+}
+.SesionArtist{
+    width: 1200px;
+    height: 400px;
+    float: left;
+}
+div h6 {
+    background-color: black; 
+    width: 250px;
+    height: 30px;
+    float: left;
+}
+.bts{
+    background-color:rgb(169, 50, 135);
+    width: 250px;
+    height: 200px;
+    padding: 30px;
+    float: left;
+    color: white;
+}
+.cnco{
+    background-image: url(./img/CNCO.jpg);
+    width: 250px;
+    height: 200px;
+    padding: 30px;
+    float: left;
+}
+.maluma{
+    background-image: url(./img/Maluma.jpg); 
+    width: 250px;
+    height: 200px; 
+    padding: 30px;
+    float: left;
+}
+.stz{
+    background-color: red; 
+    width: 250px;
+    height: 200px; 
+    padding: 30px;
+    float: left;
+}
+.KarolG{
+    background-image: url(./img/Karol\ G.jpg); 
+    width: 250px;
+    height: 200px; 
+    padding: 30px;
+    float: left;
+}
+.aespa{
+    background-image: url(./img/Aespajpg.jpg); 
+    width: 250px;
+    height: 200px; 
+    padding: 30px;
+    float: left;
+}

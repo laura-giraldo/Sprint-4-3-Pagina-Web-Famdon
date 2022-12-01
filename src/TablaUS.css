@@ -1,0 +1,34 @@
+.TablaUsuarios{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 1300px;
+    height: 600px;
+}
+.Cabeza{
+    background-color: rgb(169, 50, 135);
+    background-image: url(../src/img/icon\ enviar.png);
+    width: auto;
+    height: 90px;
+}
+.Tabla{
+    text-align: center;
+    padding:0px;
+    margin: 100px;
+    width: auto;
+    height: auto;
+}
+.dark{
+    background-color: rgb(169, 50, 135);
+    font-size:larger;
+    color: black;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+    font-style:oblique;
+    width: auto;
+    height: 50px;
+}
+.Tablacuerpo{
+    border-color: rgb(169, 50, 135);
+    border-bottom: 2px;
+}

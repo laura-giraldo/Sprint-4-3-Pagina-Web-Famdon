@@ -1,0 +1,49 @@
+
+.chat{
+    
+    font-family: 'Times New Roman', Times, serif;
+    width: 600px;
+    height: 400px;
+    background-color: deeppink;
+}
+.EPChat{
+    width:auto;
+    height: 50px;
+    text-align: center;
+    background-color: black;
+}
+.chat h3{
+    color:black;
+    text-align: center;
+}
+#btn-msj{
+    width: 50px;
+    height: 40px;
+    margin: 10px;
+    background-color: black;
+    color: deeppink;
+}
+#nuevo-msj{
+    width: 500px;
+    height: 30px;
+    color: white;
+    background-color: black;
+}
+.BTN{
+    margin: 20px;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    color:black;
+    background-color:pink;
+}
+.Art{
+    float: left;
+    background-color: black;
+    color:black;
+    background-image: url(./img/Karol\ G.jpg);
+    width: 600px;
+    height: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;
+}
